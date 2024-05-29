@@ -27,10 +27,11 @@ desenvolvimento e  sustentação sistemas. Vasta  experiencia em  diversas lingu
  
 ### Jogo Rápido  
 
-- 🌱 Estou sempre em paredizado
-- Atualmente me dedicando a desenvolvimento de sistemas em PHP, JavaScript & Framework Laravel
-- Em desenvolvimento de sistema pessoal de controle de operações financeiras
-- ❓ Fique à vontade para entrar em contato sobre qualquer coisa relacionada a tecnologia, desenvolvimento web e inteligência1 artificial  
+- 🌱 Estou sempre em paredizado.
+- 🔭 Atualmente me dedicando a desenvolvimento de sistemas em PHP, JavaScript & Framework Laravel.
+- 🔭 Estudando e desenvolvendo algumas ferramentas pessoais com Python com Django.
+- 🔭 Em desenvolvimento de sistema pessoal de controle de operações financeiras em laravel.
+- ❓ Fique à vontade para entrar em contato sobre qualquer coisa relacionada a tecnologia, desenvolvimento web e investimentos em opções estruturadas.
   
 <br/>  
 
